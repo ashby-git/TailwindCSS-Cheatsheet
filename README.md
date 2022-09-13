@@ -32,6 +32,7 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Top / Right / Bottom / Left](#top-/-right-/-bottom-/-left)
  - [Visibility](#visibility)
  - [Z-index](#z-index)
+
 [Sizing](#sizing)
  - [Width](#width)
  - [Min Width](#min-width)
@@ -39,21 +40,25 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Height](#height)
  - [Min Height](#min-height)
  - [Max Height](#max-height)
+
 [Transforms](#transforms)
  - [Scale](#scale)
  - [Rotate ](#rotate)
  - [Translate](#translate)
  - [Skew](#skew)
  - [Transform Origin](#transform-origin)
+
 [Effects](#effects)
  - [Box Shadow](#box-shadow)
  - [Opacity](#opacity)
  - [Mix Blend Mode](#mix-blend-mode)
  - [Background Blend Mode](#background-blend-mode)
+
 [Spacing](#spacing)
  - [Padding](#padding)
  - [Margin](#margin)
  - [Space Between](#space-between)
+
 [Typography](#typography)
  - [Font Family](#font-family)
  - [Font Size ](#font-size)
@@ -63,8 +68,8 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Font Variant Numeric](#font-variant-numeric)
  - [Letter Spacing](#letter-spacing)
  - [Line Height](#line-height)
- - [List Style Type](#line-style-type)
- - [List Style Position](#line-style-position)
+ - [List Style Type](#list-style-type)
+ - [List Style Position](#list-style-position)
  - [Text Align](#text-align)
  - [Text Color](#text-color)
  - [Text Decoration](#text-decoration)
@@ -78,6 +83,7 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [White Spacing ](#white-spacing)
  - [Word Break](#word-break)
  - [Content](#content)
+
 [Interactivity](#interactivity)
  - [Appearance](#appearance)
  - [Cursor](#cursor)
@@ -92,6 +98,7 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Touch Action](#touch-action)
  - [User Select](#user-select)
  - [Will Change](#will-change)
+
 [Filters](#filters)
  - [Blur](#blur)
  - [Brightness](#brightness)
@@ -111,6 +118,7 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Backdrop Opacity](#backdrop-opacity)
  - [Backdrop Saturate](#backdrop-saturate)
  - [Backdrop Sepia](#backdrop-sepia)
+
 [Flexbox & Grid](#flexbox-&-grid)
  - [Flex basis](#flex-basis)
  - [Flex Direction](#flex-direction)
@@ -136,6 +144,7 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Place Content](#place-content)
  - [Place Items](#place-items)
  - [Place Self](#place-self)
+
 [Backgrounds](#backgrounds)
  - [Background Attachment](#background-attachment)
  - [Background Clip](#background-clip)
@@ -147,12 +156,15 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Background Size](#background-size)
  - [Background Image](#background-image)
  - [Gradient Color Stops](#gradient-color-stops)
+
 [SVG](#svg)
  - [Fill](#fill)
  - [Stroke](#stroke)
  - [Stroke Width](#stroke-width)
+
 [Accessibility](#accessibility)
  - [Screen Readers](#screen-readers)
+
 [Borders](#borders)
  - [Border Radius](#border-radius)
  - [Border Width](#border-width)
@@ -171,12 +183,14 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
  - [Ring Opacity](#ring-opacity)
  - [Ring Offset Width](#ring-ofset-width)
  - [Ring Offset Color](#ring-offset-color)
+
 [Transitions & Animation](#transitions-&-animation)
  - [Transition Property](#transition-property)
  - [Transition Duration](#transition-duration)
  - [Transition Timing Function](#transition-timing-function)
  - [Transition Delay](#transition-delay)
  - [Animation](#animation)
+
 [Tables](#tables)
  - [Border Collapse](#border-collapse)
  - [Table Layout](#table-layout)
@@ -185,7 +199,7 @@ You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on mac
 
 ## Layout
 
-#### Aspect Ratio
+### Aspect Ratio
 Utilities for controlling the aspect ratio of an element.
 
 | Tailwind      | Description           | Other |
@@ -195,7 +209,7 @@ Utilities for controlling the aspect ratio of an element.
 | aspect-video  | aspect-ratio: 16 / 9; |       |
 
 
-#### Container
+### Container
 Sets the max-width to match the min-width of the current breakpoint.
 
 | Tailwind  | Description  | Other              |
@@ -208,7 +222,7 @@ Sets the max-width to match the min-width of the current breakpoint.
 |           | 2xl (1536px) | max-width: 1536px; |
 
 
-#### Columns
+### Columns
 Utilities for controlling the number of columns within an element.
 
 | Tailwind     | Description     | Other |
