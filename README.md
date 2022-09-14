@@ -8,7 +8,9 @@ This is a cheatsheet which shows the TailwindCSS classnames paired with the regu
 The details used in this cheatsheet have been taken from the 3.0.24 version of the online cheatsheet provided by the website [tailwindcomponents.com](https://tailwindcomponents.com/cheatsheet/). It was then formatted into markdown.
 
 ## How to use this list
-You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on macOS). Or simply copy/download everything, to use offline.
+- You can search for your desired CSS classes with `Ctrl + F` (or `Cmd + F` on macOS). 
+- Click on a link in the Contents section to take you to the details.
+- Or simply copy/download everything, to use offline.
 
 ## Contents
 [Layout](#layout)
