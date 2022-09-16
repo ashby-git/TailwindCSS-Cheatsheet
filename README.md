@@ -4286,18 +4286,6 @@ Sets the gaps (gutters) between rows and columns.
 
 
 
-
-
-| Tailwind | Description | Other |
-| -------- | ----------- | ----- |
-
-
-
-
-
-
-
-
 ### Justify Content
 Utilities for controlling how flex and grid items are positioned along a container's main axis.
 
