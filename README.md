@@ -4442,8 +4442,8 @@ Sets background color.
 
 | Tailwind       | Description                      | Other |
 | -------------- | -------------------------------- | ----- |
-| bg-transparent | background-color: transparent;`  |       |
-| bg-current     | background-color: currentColor;` |       |
+| bg-transparent | background-color: transparent;   |       |
+| bg-current     | background-color: currentColor;  |       |
 | bg-black       | background-color: `#000000;`     |       |
 | bg-white       | background-color: `#ffffff;`     |       |
 | bg-gray-50     | background-color: `#F9FAFB;`     |       |
