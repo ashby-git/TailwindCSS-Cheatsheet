@@ -5614,8 +5614,8 @@ Utilities for setting the color of outline rings offset.
 
 | Tailwind                | Description                         | Other |
 | ----------------------- | ----------------------------------- | ----- |
-| ring-offset-transparent | --ring-offset-color: transparent;`  |       |
-| ring-offset-current     | --ring-offset-color: currentColor;` |       |
+| ring-offset-transparent | --ring-offset-color: transparent;   |       |
+| ring-offset-current     | --ring-offset-color: currentColor;  |       |
 | ring-offset-black       | --ring-offset-color: `#000000;`     |       |
 | ring-offset-white       | --ring-offset-color: `#ffffff;`     |       |
 | ring-offset-gray-50     | --ring-offset-color: `#F9FAFB;`     |       |
