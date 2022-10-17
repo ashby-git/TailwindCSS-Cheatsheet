@@ -5279,8 +5279,8 @@ Controls the border color between elements.
 
 | Tailwind           | Description                  | Other |
 | ------------------ | ---------------------------- | ----- |
-| divide-transparent | border-color: transparent;`  |       |
-| divide-current     | border-color: currentColor;` |       |
+| divide-transparent | border-color: transparent;   |       |
+| divide-current     | border-color: currentColor;  |       |
 | divide-black       | border-color: `#000000;`     |       |
 | divide-white       | border-color: `#ffffff;`     |       |
 | divide-gray-50     | border-color: `#F9FAFB;`     |       |
