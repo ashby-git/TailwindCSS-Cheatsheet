@@ -5475,8 +5475,8 @@ Utilities for setting the color of outline rings.
 
 | Tailwind         | Description                  | Other |
 | ---------------- | ---------------------------- | ----- |
-| ring-transparent | --ring-color: transparent;`  |       |
-| ring-current     | --ring-color: currentColor;` |       |
+| ring-transparent | --ring-color: transparent;   |       |
+| ring-current     | --ring-color: currentColor;  |       |
 | ring-black       | --ring-color: `#000000;`     |       |
 | ring-white       | --ring-color: `#ffffff;`     |       |
 | ring-gray-50     | --ring-color: `#F9FAFB;`     |       |
