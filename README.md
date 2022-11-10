@@ -4646,8 +4646,8 @@ Utilities for controlling the color stops in background gradients.
 
 | Tailwind         | Description                      | Other |
 | ---------------- | -------------------------------- | ----- |
-| from-transparent | background-color: transparent;`  |       |
-| from-current     | background-color: currentColor;` |       |
+| from-transparent | background-color: transparent;   |       |
+| from-current     | background-color: currentColor;  |       |
 | from-black       | background-color: `#000000;`     |       |
 | from-white       | background-color: `#ffffff;`     |       |
 | from-gray-50     | background-color: `#F9FAFB;`     |       |
