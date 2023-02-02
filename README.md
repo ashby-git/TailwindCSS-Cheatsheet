@@ -5122,8 +5122,8 @@ Sets color for borders.
 
 | Tailwind           | Description                  | Other |
 | ------------------ | ---------------------------- | ----- |
-| border-transparent | border-color: transparent;`  |       |
-| border-current     | border-color: currentColor;` |       |
+| border-transparent | border-color: transparent;   |       |
+| border-current     | border-color: currentColor;  |       |
 | border-black       | border-color: `#000000;`     |       |
 | border-white       | border-color: `#ffffff;`     |       |
 | border-gray-50     | border-color: `#F9FAFB;`     |       |
